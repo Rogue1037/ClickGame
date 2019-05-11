@@ -1,0 +1,75 @@
+[
+    {
+      "id": 0,
+      "name": "Galactica",
+      "image": "assets/images/battlestar-galactica-photo-u1.jpeg",
+      "isClicked": false
+    },
+    {
+      "id": 1,
+      "name": "Dreadnaught",
+      "image": "assets/images/Dreadnaught.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 2,
+      "name": "Enterprise",
+      "image": "assets/images/Enterprise.jpeg",
+      "isClicked": false
+    },
+    {
+      "id": 3,
+      "name": "Falcon",
+      "image": "assets/images/Falcon.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 4,
+      "name": "Firefly",
+      "image": "assets/images/Firefly-class_transport_ship.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 5,
+      "name": "LastStarFighter",
+      "image": "assets/images/LastStarFighter.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 6,
+      "name": "slave1",
+      "image": "assets/images/slave1.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 7,
+      "name": "Voyager",
+      "image": "assets/images/star-trek-voyager.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 8,
+      "name": "Tardis",
+      "image": "assets/images/Tardis.jpeg",
+      "isClicked": false
+    },
+    {
+      "id": 9,
+      "name": "Thunderfighter",
+      "image": "assets/images/Thunderfighter.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 10,
+      "name": "USA",
+      "image": "assets/images/USA.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 11,
+      "name": "Navigator",
+      "image": "assets/images/Navigator.jpeg",
+      "isClicked": false
+    }
+  ]
+  

@@ -1,11 +1,13 @@
 import React from "react";
 
 
-function Navbar(props) { 
- return <nav class="navbar navbar-light bg-light">
-  <span class="navbar-brand mb-0 h1"></span>
-</nav>
-
-}
+const Navbar = (props) => (
+  <nav className = "navbar-brand">
+    <ul>
+      <li className = {props.messageClass}>{props.message}</li>
+      <li>Score: {props.score} | Top Score: {props.topscore}</li>
+    </ul>
+  </nav>
+);
 
 export default Navbar;
