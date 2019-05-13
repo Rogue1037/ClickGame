@@ -2,6 +2,7 @@
   "name": "clickgame",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://rogue1037.github.io/ClickGame/",
   "dependencies": {
     "axios": "^0.18.0",
     "gh-pages": "^2.0.1",
