@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e9672af854be242be0e684eec356ee99",
+    "revision": "752708bc8ab92033b54c1e41d7daa2d8",
     "url": "/Rogue1037/ClickGame/index.html"
   },
   {
-    "revision": "385466546be7f92ea66b",
+    "revision": "505c7624f1dd9071f8a2",
     "url": "/Rogue1037/ClickGame/static/css/main.0449f4ea.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Rogue1037/ClickGame/static/js/2.abafc83a.chunk.js"
   },
   {
-    "revision": "385466546be7f92ea66b",
-    "url": "/Rogue1037/ClickGame/static/js/main.9741c140.chunk.js"
+    "revision": "505c7624f1dd9071f8a2",
+    "url": "/Rogue1037/ClickGame/static/js/main.e74ef9bb.chunk.js"
   },
   {
     "revision": "60e0482aacb409d9445b",
